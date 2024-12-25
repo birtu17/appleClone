@@ -93,15 +93,141 @@ style */
   padding-left: 10px;
 }
 
-/* ************************************************************  */
-/* Additional css End here  */
-/* ************************************************************  */
+.mack-flex {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  margin-top: 1%;
+}
 
-/* i deleted it */
+.MacBook-Pro {
+  background-image: url(../Images/home/macbook-pro.jpg);
+  width: 49.5%;
+  height: 580px;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-color: #fafafa;
+  padding-top: 30px;
+}
 
-/* ************************************************************  */
-/* Additional css End here  */
-/* ************************************************************  */
+.ipad {
+  background-image: url(../Images/home/new-ipad.jpg);
+  width: 49.5%;
+  height: 580px;
+  background-position: center;
+  padding-top: 30px;
+}
+.best {
+  padding: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+* Sixth section style start */
+
+.mack-flex {
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+  margin-top: 1%;
+}
+
+.MacBook-Pro {
+  background-image: url(../Images/home/macbook-pro.jpg);
+  width: 49.5%;
+  height: 580px;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-color: #fafafa;
+  padding-top: 30px;
+}
+
+.ipad {
+  background-image: url(../Images/home/new-ipad.jpg);
+  width: 49.5%;
+  height: 580px;
+  background-position: center;
+  padding-top: 30px;
+}
+.best {
+  padding: 10px;
+}
+
+/* Sixth section style ends here  */
 
 /* footer style starts */
 footer {
