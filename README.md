@@ -5,3 +5,5 @@ Group member with their assigned task;
 • Fourth section – left part (Watch – Series 5) and Fourth section – right part (Card is here) are assigned for Getu
 • Fifth section – left part (tv+) and Fifth section – right part (AirPods Pro) are assigned for Eyosi
 • Sixth section – left part (MacBook Pro) and Sixth section – right part (The new iPad) are assigned for Teddy
+
+## the demo of this website can be found here https://birtu17.github.io/appleClone/
