@@ -1,10 +1,10 @@
-# Working on appleclone colaboration
+# Collaborating on the development of an Apple clone web page.
 This is a README file where we will be practicing Git operations and Git workflows, aiming to use GitHub comfortably.
 
 ### Group member with their assigned tasks:
 
 -  Birtkan(TL)
-   -  Header, Footer and First section banner (16-inch MacBook Pro) are assigned
+   -  Header, Footer and First section banner (16-inch MacBook Pro) 
 -  Abera
    -  Second section banner (iPhone 11 Pro) and Third section banner (iPhone 11)
 -  Getu
