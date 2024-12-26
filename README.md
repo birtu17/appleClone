@@ -1,9 +1,17 @@
-#Working on appleclone;
-Group member with their assigned task;
-• Header, Footer and First section banner (16-inch MacBook Pro) are assigned for Birtkan
-• Second section banner (iPhone 11 Pro) and Third section banner (iPhone 11) are assigned for Abera
-• Fourth section – left part (Watch – Series 5) and Fourth section – right part (Card is here) are assigned for Getu
-• Fifth section – left part (tv+) and Fifth section – right part (AirPods Pro) are assigned for Eyosi
-• Sixth section – left part (MacBook Pro) and Sixth section – right part (The new iPad) are assigned for Teddy
+# Working on appleclone colaboration
+This is a README file where we will be practicing Git operations and Git workflows, aiming to use GitHub comfortably.
 
-## the demo of this website can be found here https://birtu17.github.io/appleClone/
+### Group member with their assigned tasks:
+
+-  Birtkan(TL)
+   -  Header, Footer and First section banner (16-inch MacBook Pro) are assigned
+-  Abera
+   -  Second section banner (iPhone 11 Pro) and Third section banner (iPhone 11)
+-  Getu
+   -  Fourth section – left part (Watch – Series 5) and Fourth section – right part (Card is here)
+-  Eyosi
+   -  Fifth section – left part (tv+) and Fifth section – right part (AirPods Pro)
+-  Teddy
+   -  Sixth section – left part (MacBook Pro) and Sixth section – right part (The new iPad)
+
+## the demo of this website can be found here: https://birtu17.github.io/appleClone/
